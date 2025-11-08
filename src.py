@@ -1,3 +1,4 @@
+# pip install scikit-learn numpy pandas matplotlib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
